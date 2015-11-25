@@ -12,6 +12,7 @@ looping_triangle.js
 fizz_buzz.js
 ```
 ### Add your Chapter 3 solutions to the following js files:
+
 ```
 Chapter 3
 minimum.js
